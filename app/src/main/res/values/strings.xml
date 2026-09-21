@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Twist Flashlight</string>
+    <string name="title_main">Twist Flashlight</string>
+    <string name="description_main">Give your phone a quick twist/rotate motion to turn the flashlight on or off — even when the app is in the background or the screen is off.</string>
+    <string name="switch_label">Enable twist-to-toggle</string>
+    <string name="status_off">Off — flip the switch to arm the gesture detector</string>
+    <string name="status_on">Active — twist your phone to toggle the flashlight</string>
+    <string name="battery_hint">Tip: if the service stops after a while, disable battery optimization for this app in your phone settings so Android does not kill it in the background.</string>
+</resources>

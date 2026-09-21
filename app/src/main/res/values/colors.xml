@@ -1,0 +1,9 @@
+<resources>
+    <color name="primary">#FFC107</color>
+    <color name="primary_dark">#FFA000</color>
+    <color name="background">#121212</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="on_surface">#F5F5F5</color>
+    <color name="secondary_text">#B0B0B0</color>
+    <color name="ic_launcher_background">#121212</color>
+</resources>
